@@ -1,0 +1,20 @@
+.imageprop{
+    border-radius: 10px solid black;
+    box-shadow: black 0 0 10px;
+    
+}
+#bor{
+    width: 851;
+    border: 0; 
+    align-content: center;
+ 
+ }
+ #info{
+    width: 52%;
+    padding: 20px;
+    font-size: 22px;
+    color:black;
+}
+#tab{
+    border-collapse: collapse;
+}
